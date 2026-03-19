@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="u78MZcgwd9v4Lyg9T_sT-61" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="620" y="600" width="140" height="370" as="geometry" />
+          <mxGeometry x="620" y="570" width="140" height="400" as="geometry" />
         </mxCell>
         <mxCell id="u78MZcgwd9v4Lyg9T_sT-60" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="570" width="300" height="400" as="geometry" />
@@ -179,6 +179,9 @@
         </mxCell>
         <mxCell id="u78MZcgwd9v4Lyg9T_sT-63" value="&lt;font style=&quot;font-size: 20px;&quot; face=&quot;Times New Roman&quot;&gt;&lt;i&gt;Backbone&lt;/i&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="145" y="380" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="u78MZcgwd9v4Lyg9T_sT-64" value="&lt;font style=&quot;font-size: 20px;&quot; face=&quot;Times New Roman&quot;&gt;&lt;i&gt;Neck&lt;/i&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="665" y="575" width="60" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
