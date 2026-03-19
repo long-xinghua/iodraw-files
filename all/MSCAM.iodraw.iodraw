@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Tyw-PdPbpBfa3bdXr4Zn-65" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="70" y="450" width="130" height="250" as="geometry" />
+          <mxGeometry x="60" y="450" width="140" height="250" as="geometry" />
         </mxCell>
         <mxCell id="Tyw-PdPbpBfa3bdXr4Zn-53" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="840" width="275" height="290" as="geometry" />
@@ -189,8 +189,8 @@
             <mxPoint x="134.66000000000003" y="490" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Tyw-PdPbpBfa3bdXr4Zn-67" value="&lt;font style=&quot;font-size: 20px;&quot; face=&quot;Times New Roman&quot;&gt;CAB&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="70" y="450" width="60" height="40" as="geometry" />
+        <mxCell id="Tyw-PdPbpBfa3bdXr4Zn-67" value="&lt;font style=&quot;font-size: 20px;&quot; face=&quot;Times New Roman&quot;&gt;MSCB&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="60" y="450" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
