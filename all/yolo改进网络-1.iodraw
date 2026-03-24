@@ -430,8 +430,8 @@
         <mxCell id="iF-ASfdRg69x-GEKc1O1-2" value="improvement 1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="360" y="428" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="iF-ASfdRg69x-GEKc1O1-3" value="&lt;font style=&quot;font-size: 20px;&quot; face=&quot;Times New Roman&quot;&gt;&lt;i&gt;Depth Backbone&lt;/i&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="320" y="490" width="160" height="40" as="geometry" />
+        <mxCell id="iF-ASfdRg69x-GEKc1O1-3" value="&lt;font style=&quot;font-size: 20px;&quot; face=&quot;Times New Roman&quot;&gt;&lt;i&gt;Improvement 1&lt;/i&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="330" y="490" width="140" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
